@@ -18,4 +18,4 @@ echo "20
       twoplusone
       twoplusone
       twoplusone
-      aaaabaaaaa" | ./a.out
+      aaaabaaaaa" | ./run.out

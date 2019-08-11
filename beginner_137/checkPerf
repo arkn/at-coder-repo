@@ -1,0 +1,1 @@
+g++ -std=c++11 -g -D PERF -o run.out $1 
